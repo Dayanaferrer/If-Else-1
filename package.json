@@ -1,0 +1,24 @@
+{
+  "name": "Exerc-cio1-if-else",
+  "version": "1.0.0",
+  "description": "Escrever um\t programa que ler 2 valores (considere que não serão informados\tvalores\tiguais)\te escrever o maior deles.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dayanaferrer/Exerc-cio1-if-else.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dayanaferrer/Exerc-cio1-if-else/issues"
+  },
+  "homepage": "https://github.com/Dayanaferrer/Exerc-cio1-if-else#readme",
+  "dependencies": {
+    "rea": "0.0.1",
+    "readline-sync": "^1.4.10"
+  }
+}
